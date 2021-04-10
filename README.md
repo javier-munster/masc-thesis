@@ -16,7 +16,7 @@ This thesis is (as of this writing) available at my profile page at the . I re-u
 ### Secret Sharing in Pub/Sub Using Trusted Execution Environments
 #### Links
 * [File](masc/secret_sharing.pdf)
-* [Early concept presentation](masc/secret_sharing_presentation.pdf)
+* [Early stage concept presentation](masc/secret_sharing_presentation.pdf)
 * [ACM Library](https://doi.org/10.1145/3210284.3210290)
 #### Description
 Originally published in [DEBS 2018](https://2018.debs.org/), which meant I got to travel to New Zealand to present this work. I ended up spending a month there. It was an unforgettable experience.
