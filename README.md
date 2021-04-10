@@ -7,7 +7,7 @@ This section presents a brief overview of the files found on this repository.
 ### Securing Publish/Subscribe
 #### Links
 * [File](masc/thesis.pdf)
-* [Middleware Systems Research Group website](http://msrg.org/profiles/javier) -- This link is working as of this writing, but that may change in the future. I have no control over it.
+* [Middleware Systems Research Group](http://msrg.org/profiles/javier)
 #### Description
 My University of Toronto MASc thesis. A lot of blood, sweat and tears went into this. It contains an exhaustive overview of all the existing research work done to provide any measure of security in a publish/subscribe system, accurate to 2018. It also contains my original work on bringing Trusted Execution Environments to publish/subscribe.
 
