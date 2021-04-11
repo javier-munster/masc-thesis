@@ -1,5 +1,5 @@
 # Resume Supporting Documents
-Hi! Thanks for your extended interest in my work and experience. This repo stores some supporting documentation that may or may not appear on my resume, depending on which version you've seen. If anything catches your eye, do let me know!
+Hi! Thanks for your continued interest in my work and experience. This repo stores some supporting documentation that may or may not appear on my resume, depending on which version you've seen. If anything catches your eye, do let me know!
 
 As time passes servers change, links move and content goes down. Please excuse any dead links on this page and know that if I were in control of those servers, this would not happen.
 ## Documents
