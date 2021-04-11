@@ -7,6 +7,7 @@ This section presents a brief overview of the files found on this repository.
 ### Securing Publish/Subscribe
 #### Links
 * [File](masc/thesis.pdf)
+* [Thesis Defense Presentation](masc/SecuringPubSub.pdf)
 * [Middleware Systems Research Group](http://msrg.org/profiles/javier)
 #### Description
 My University of Toronto MASc thesis. A lot of blood, sweat and tears went into this. It contains an exhaustive overview of all the existing research work done to provide any measure of security in a publish/subscribe system, accurate to 2018. It also contains my original work on bringing Trusted Execution Environments to publish/subscribe.
@@ -16,7 +17,7 @@ This thesis is (as of this writing) available at my profile page at the . I re-u
 ### Secret Sharing in Pub/Sub Using Trusted Execution Environments
 #### Links
 * [File](masc/secret_sharing.pdf)
-* [Early stage concept presentation](masc/secret_sharing_presentation.pdf)
+* [Early concept presentation](masc/secret_sharing_presentation.pdf)
 * [ACM Library](https://doi.org/10.1145/3210284.3210290)
 #### Description
 Originally published in [DEBS 2018](https://2018.debs.org/), which meant I got to travel to New Zealand to present this work. I ended up spending a month there. It was an unforgettable experience.
